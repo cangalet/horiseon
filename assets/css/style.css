@@ -83,7 +83,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-.product-info {
+.product article{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -92,11 +92,11 @@ p {
     color: #ffffff;
 }
 
-.product-info img {
+.product img {
     max-height: 200px;
 }
 
-.product-info h2 {
+.product h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -116,17 +116,17 @@ p {
     background-color: #2589bd;
 }
 
-.benefits-info {
+.benefits article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefits-info h3 {
+.benefits h2 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits-info img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
